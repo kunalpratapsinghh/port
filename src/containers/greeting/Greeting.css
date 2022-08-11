@@ -51,8 +51,10 @@
 }
 
 .greeting-image-div > * {
+  display: flex;
   max-width: 100%;
   height: auto;
+  margin: auto;
 }
 
 /* Media Query */

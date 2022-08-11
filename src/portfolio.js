@@ -132,7 +132,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Building website using HTML, CSS & JavaScript",
+        "⚡ Building website using HTML, CSS, JavaScript & ReactJs",
         "⚡ Github project collaboration",
         "⚡ Proficient understanding of front-end development, back-end development, and databases",
         "⚡ Creating application backend in Node, Express & Flask",
