@@ -10,10 +10,10 @@ export default function GithubRepoCard({ repo, theme }) {
     win.focus();
   }
   function changeBackground(e) {
-    e.target.style.background = '#042255';
+    e.target.style.background = "#a6e1fa";
   }
   function changeBackground1(e) {
-    e.target.style.background = 'white';
+    e.target.style.background = "white";
   }
 
   return (
@@ -42,10 +42,15 @@ export default function GithubRepoCard({ repo, theme }) {
               {repo.name}
             </p>
             <button
-            onMouseOver={changeBackground}
-            onMouseLeave={changeBackground1}
+              onMouseOver={changeBackground}
+              onMouseLeave={changeBackground1}
               onClick={() => openRepoinNewTab(repo.url)}
-              style={{ margin: "30px", height: "30px", width:"100px",borderRadius:"30px"}}
+              style={{
+                margin: "30px",
+                height: "30px",
+                width: "100px",
+                borderRadius: "30px",
+              }}
             >
               GIT Link
             </button>
@@ -53,7 +58,12 @@ export default function GithubRepoCard({ repo, theme }) {
               onClick={() => openRepoinNewTab(repo.url1)}
               onMouseOver={changeBackground}
               onMouseLeave={changeBackground1}
-              style={{ margin: "30px", height: "30px", width:"100px" ,borderRadius:"30px"}}
+              style={{
+                margin: "30px",
+                height: "30px",
+                width: "100px",
+                borderRadius: "30px",
+              }}
             >
               Live Link
             </button>

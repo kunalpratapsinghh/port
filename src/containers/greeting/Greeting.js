@@ -44,9 +44,11 @@ export default function Greeting(props) {
           </div>
           <div className="greeting-image-div">
             <img
-							alt="saad sitting on table"
-							src={require("../../assests/images/feelingProud.jpg")}
-						></img>
+              width={"80%"}
+              height="80%"
+              alt="saad sitting on table"
+              src={require("../../assests/images/feelingProud.jpg")}
+            ></img>
             <FeelingProud theme={theme} />
           </div>
         </div>

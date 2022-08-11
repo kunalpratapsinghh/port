@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1yKGLxAbHVGjlXqpAUoWXqYAyJDVp6WKJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1k2DB1ReRUsjtyXrf9l2UcglhimDo4otv/view",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/kunalpratapsinghh",
 };
@@ -555,7 +555,7 @@ const experience = {
           duration: "Jan 2022 -Sept 2022",
           location: "Bengaluru, Karnatka",
           description:
-            "I was a layman in computer science engineering, having basic knowledge about MS Office, word, MSPaint etc. After joining Masai School, gone through military-type training based on the 9-9-6 curriculum.Learnt the concepts of HTML CSS javascript and built some major projects and 50+ minor projects.I've also learnt the Js library React. I can make single-page applications with good UI with the help of React. Besides this, I also solved more than 500+ questions of Dsa in 6 months.",
+            "I was a layman in computer science engineering, having basic knowledge about MS Office, word, MSPaint etc. After joining Masai School, gone through military-type training based on the 9-9-6 curriculum.Learnt the concepts of HTML, CSS,javascript, Js library React, TypeScript, Express & MongoDB. With the help of these concept i've built some major projects and 50+ minor projects. I can make single-page applications with good UI with the help of React. Besides this, I also solved more than 500+ questions of Dsa in 6 months.",
           color: "#ee3c26",
         },
         // {
@@ -668,9 +668,9 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "VILL AROO PO SAHIYA PS WAZIRGANJ DIST GAYA (BIHAR) 805131",
+    subtitle: "Gaya, Bihar",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/pj7gQtTxJbV9F4U59",
+    location_map_link: "https://goo.gl/maps/UW5CVUfyFnmYdeyu5",
   },
   phoneSection: {
     title: "Phone Number",
