@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Beauty bebo clone",
+      "createdAt": "April 2022",
+      "url": "https://github.com/KaustubhBadve/Beutybebo-Cloned",
+      "url1": "https://elegant-centaur-093589.netlify.app/",
+      "description": "We cloned this website in a span of seven days. The Tech stack used is Html CSS javascript.Various UI like slideshow,login-signup, payment etc are eye-catching.javascript functionality like API, local storage, slide show with the help of set interval etc is used.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ],
+      "img": "https://i.ibb.co/bv9MfV5/beautybebo.jpg"
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Licious Clone",
       "createdAt": "March 2022",
@@ -21,30 +45,8 @@
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Beauty bebo clone",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/KaustubhBadve/Beutybebo-Cloned",
-      "url1": "https://elegant-centaur-093589.netlify.app/",
-      "description": "We cloned this website in a span of seven days. The Tech stack used is Html CSS javascript.Various UI like slideshow,login-signup, payment etc are eye-catching.javascript functionality like API, local storage, slide show with the help of set interval etc is used.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
+      ],
+      "img": "https://i.ibb.co/sPk8WQF/licious.png"
     }
   ]
 }

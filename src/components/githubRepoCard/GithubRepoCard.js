@@ -83,6 +83,14 @@ export default function GithubRepoCard({ repo, theme }) {
               logos={repo.languages}
             />
           </div>
+          <div>
+            <img
+              style={{ marginTop: "20px" }}
+              width={"100%"}
+              height="400px"
+              src={repo.img}
+            ></img>
+          </div>
           {/* <div className="repo-stats">
           <div className="repo-left-stat">
             <span>
